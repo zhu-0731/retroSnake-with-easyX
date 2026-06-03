@@ -90,7 +90,7 @@ retroSnake-with-easyX
 │  ├─ better-day.wav                    # 背景音乐
 │  └─ ...
 ├─ retro_exc.sln                        # VS 解决方案
-├─ retrosnake2311475朱婧萱.mp4          # 演示视频
+├─ retrosnake.mp4                     # 演示视频
 └─ README.md
 ```
 
@@ -125,7 +125,7 @@ retroSnake-with-easyX
 ### 方式二：查看演示视频
 如果你只是想先看效果，可以直接打开仓库中的演示视频：
 
-- [演示视频](./retrosnake2311475朱婧萱.mp4)
+- [演示视频](./retrosnake.mp4)
 
 ---
 
@@ -150,10 +150,3 @@ retroSnake-with-easyX
 - 补充 Release 可执行文件与版本截图，进一步提升仓库展示效果
 
 ---
-
-## 致谢
-
-这个项目保留了比较鲜明的个人风格：  
-机制设计不是照搬标准模板，而是在经典贪吃蛇框架里加入了自己对“好玩”和“压迫感”的理解。
-
-如果你觉得这个项目有意思，欢迎点个 Star。
